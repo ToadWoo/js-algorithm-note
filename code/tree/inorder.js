@@ -29,7 +29,14 @@ const binaryTree = {
     },
 }
 
-// 递归版
+/**
+ * 递归版
+ * 
+ * 步骤：
+ * 1. 对根节点的左子树进行中序遍历
+ * 2. 访问根节点
+ * 3. 对根节点的右子树进行中序遍历
+ */
 const inorderRecursion = (root)=>{
     if(!root) return
     inorderRecursion(root.left)

@@ -51,6 +51,7 @@ class MinHeap{
         this.heap[i2] = tmp
     }
 
+    // 插入 时间复杂度有O(logK)
     insert(num){
         this.heap.push(num)
         this.shiftUp(this.heap.length-1)

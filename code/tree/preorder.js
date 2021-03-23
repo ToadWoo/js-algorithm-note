@@ -29,8 +29,14 @@ const binaryTree = {
     },
 }
 
-// 递归版
-const preorderRecursion = (root)=>{
+/**
+ * 递归版
+ * 步骤：
+ * 1. 访问根节点
+ * 2. 对根节点的左子树进行先序遍历
+ * 3. 对根节点的右子树进行先序遍历
+ */
+const preorderRecursion = (root) => {
     if(!root) return
     console.log(root.val)
     preorderRecursion(root.left)
@@ -38,8 +44,7 @@ const preorderRecursion = (root)=>{
 }
 
 // 非递归版
-
-const preorder = (root)=>{
+const preorder = (root) => {
     const stack = [root]
     while(stack.length){
         const p = stack.pop()

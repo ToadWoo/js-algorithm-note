@@ -2,6 +2,14 @@
  * @lc app=leetcode.cn id=83 lang=javascript
  *
  * [83] 删除排序链表中的重复元素
+ * 
+ * 解题思路：
+ * 遍历链表，由于链表是排序过的，所以判断当前节点与下个节点的值是否相等，相等则删除下个节点
+ * 
+ * 复杂度分析：
+ * 时间复杂度：O(n)
+ * 空间复杂度：O(1)
+ * 
  */
 
 // @lc code=start
@@ -18,13 +26,12 @@
  */
 var deleteDuplicates = function(head) {
 
-    let pre = head
-
-    while(pre && pre.next){
-        if((pre && pre.val) === pre.next.val){
-            pre.next = pre.next.next
+    let p = head
+    while(p && p.next){
+        if(p.val === p.next.val){
+            p.next = p.next.next
         }else{
-            pre = pre.next
+            p = p.next
         }
     }
     return head
