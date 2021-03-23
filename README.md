@@ -128,15 +128,15 @@ Leetcode 相关题：
 
 1. [先序遍历(preorder)--递归与非递归方式](./code/tree/preorder.js)
 
-   <img src="/Users/wugenlong/Desktop/js-algorithm/img/preorder.png" alt="preorder" style="zoom:50%;" />
+   <img src="./img/preorder.png" alt="preorder" style="zoom:50%;" />
 
 2. [中序遍历(inorder)--递归与非递归方式](./code/tree/inorder.js)
 
-   <img src="/Users/wugenlong/Desktop/js-algorithm/img/inorder.png" alt="inorder" style="zoom:50%;" />
+   <img src="./img/inorder.png" alt="inorder" style="zoom:50%;" />
 
 3. [后序遍历(postorder)--递归与非递归方式](./code/tree/postorder.js)
 
-   <img src="/Users/wugenlong/Desktop/js-algorithm/img/postorder.png" alt="postorder" style="zoom:50%;" />
+   <img src="./img/postorder.png" alt="postorder" style="zoom:50%;" />
 
 Leetcode 相关题：
 
