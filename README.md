@@ -62,7 +62,7 @@ Leetcode 相关题：[933 最近的请求次数](./leetcode/933.最近的请求�
 
 js 中使用： 使用 Object 来模拟链表
 
-JS 中相关知识点： [原型链、instanceof 的实现](./原型链.md)
+JS 中相关知识点： [原型链、instanceof 的实现](./note/原型链.md)
 
 <img src="./img/linkedlist.png" alt="linkedlist" style="zoom:50%;" />
 
@@ -72,11 +72,11 @@ Leetcode 相关题：
 
 [2 两数相加](./leetcode/2.两数相加.js)
 
-[83 删除排序链表中重复的元素](./83.删除排序链表中重复的元素.js)
+[83 删除排序链表中重复的元素](./leetcode/83.删除排序链表中重复的元素.js)
 
 [141 环形链表](./leetcode/141.环形链表.js)
 
-[206 反转链表](./206.反转链表.js)
+[206 反转链表](./leetcode/206.反转链表.js)
 
 [237 删除链表中的节点](./leetcode/237.删除链表中的节点.js)
 
@@ -96,15 +96,15 @@ Leetcode 相关题：[349 两个数组的交集](./leetcode/349.两个数组的�
 
 Leetcode 相关题：
 
-[1 两数之和](./leetcode/1两数之和)
+[1 两数之和](./leetcode/1.两数之和.js)
 
-[3 无重复的最小子串](./leetcode/3.无重复的最小子串)
+[3 无重复的最小子串](./leetcode/3.无重复的最小子串.js)
 
-[20 有效的括号](./leetcode/20.有效的括号)
+[20 有效的括号](./leetcode/20.有效的括号.js)
 
-[76 最小覆盖子串](./leetcode/76.最小覆盖子串)
+[76 最小覆盖子串](./leetcode/76.最小覆盖子串.js)
 
-[349 两个数组的交集](./leetcode/349.两个数组的交集)
+[349 两个数组的交集](./leetcode/349.两个数组的交集.js)
 
 常见解法总结：
 
@@ -158,11 +158,11 @@ Leetcode 相关题：
 
 邻接矩阵
 
-<img src="/Users/wugenlong/Desktop/js-algorithm/img/grapha1.png" alt="grapha1" style="zoom:50%;" />
+<img src="./img/grapha1.png" alt="grapha1" style="zoom:50%;" />
 
 邻接表
 
-<img src="/Users/wugenlong/Desktop/js-algorithm/img/grapha2.png" alt="grapha2" style="zoom:50%;" />
+<img src="./img/grapha2.png" alt="grapha2" style="zoom:50%;" />
 
 遍历方式：[深度优先遍历](./code/graph/dfs.js) 、[广度优先遍历](./code/graph/bfs.js)
 
@@ -194,7 +194,7 @@ JS 中堆的表示：
 
 ![heap-arr](./img/heap-arr.png)
 
-[JavaScript 实现最小堆类](./leetcode/heap/minHeap.js)
+[JavaScript 实现最小堆类](./code/heap/minHeap.js)
 
 堆的应用：
 
@@ -207,7 +207,7 @@ JS 中堆的表示：
 
 Leetcode 相关题：
 
-[23 合并 K 个排序链表](./leetcode/23.合并K个排序链表)
+[23 合并 K 个排序链表](./leetcode/23.合并K个排序链表.js)
 
 [215 数组中的第 K 个最大元素](./leetcode/215.数组中的第K个最大元素.js)
 
