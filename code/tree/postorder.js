@@ -76,7 +76,7 @@ const postorder2 = (root) =>{
         const top = stack[stack.length - 1] // 取栈顶
         if(top.right === null || top.right === last){
             console.log(top.val)
-            stack.pop() // 已输入，出栈
+            stack.pop() // 已访问，出栈
             last = top
         }else{
             p = top.right

@@ -212,3 +212,55 @@ Leetcode 相关题：
 [215 数组中的第 K 个最大元素](./leetcode/215.数组中的第K个最大元素.js)
 
 [347 前 K 个高频元素](./leetcode/347.前K个高频元素.js)
+
+## 算法
+
+### 排序
+
+各种排序算法动画演示：https://visualgo.net/zh/sorting
+
+#### [冒泡排序](./code/sort/bubbleSort.js)
+
+时间复杂度 O(n^2)
+
+#### [选择排序](./code/sort/selectionSort.js)
+
+时间复杂度 O(n^2)
+
+#### [插入排序](./code/sort/insertionSort.js)
+
+时间复杂度 O(n^2)
+
+#### [归并排序](./code/sort/mergeSort.js)
+
+时间复杂度 O(n\*logN)
+
+leetcode 相关题：[21 合并两个有序链表](./leetcode/21.合并两个有序链表.js)
+
+#### [快速排序](./code/sort/quickSort.js)
+
+时间复杂度 O(n\*logN)
+
+### 搜索
+
+#### [顺序搜索](./code/sort/sequentialSearch.js)
+
+时间复杂度 O(n)
+
+#### [二分搜索](./code/sort/binarySearch.js)
+
+时间复杂度 O(logN)
+
+leetcode 相关题：[374 猜数字大小](./leetcode/374.猜数字大小.js)
+
+### 分而治之
+
+概述：分而治之是**算法设计**中的一种方法，一种思想，它将一个问题**分**成多个原问题相似的小问题，**递归**解决小问题，再将结果**合并**以解决原来的问题
+
+使用场景： 归并排序、快速排序
+
+
+
+### 动态规划
+
+### 回溯算法
