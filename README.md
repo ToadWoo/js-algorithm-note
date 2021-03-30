@@ -261,13 +261,13 @@ leetcode 相关题：[374 猜数字大小](./leetcode/374.猜数字大小.js)
 
 leetcode 相关题：
 
-[374 猜数字大小](../leetcode/374.猜数字大小.js)
+[374 猜数字大小](./leetcode/374.猜数字大小.js)
 
-[226 翻转二叉树](../leetcode/226.翻转二叉树.js)
+[226 翻转二叉树](./leetcode/226.翻转二叉树.js)
 
-[100 相同的数](../leetcode/100.相同的数.js)
+[100 相同的数](./leetcode/100.相同的数.js)
 
-[101 对称二叉树](../leetcode/101.对称二叉树.js)
+[101 对称二叉树](./leetcode/101.对称二叉树.js)
 
 ### 动态规划
 
@@ -279,15 +279,15 @@ leetcode 相关题：
 
 leetcode 相关题：
 
-[70 爬楼梯](../leetcode/70.爬楼梯.js)
+[70 爬楼梯](./leetcode/70.爬楼梯.js)
 
-[198 打家劫舍](../leetcode/198.打家劫舍.js)
+[198 打家劫舍](./leetcode/198.打家劫舍.js)
 
-[64 最小路径和](../leetcode/64最小路径和.js)
+[64 最小路径和](./leetcode/64最小路径和.js)
 
-[62 不同路径](../leetcode/62.不同路径.js)
+[62 不同路径](./leetcode/62.不同路径.js)
 
-[63 不同路径 II](../leetcode/63.不同路径-ii.js)
+[63 不同路径 II](./leetcode/63.不同路径-ii.js)
 
 ### 贪心算法
 
@@ -295,9 +295,9 @@ leetcode 相关题：
 
 leetcode 相关题：
 
-[455 分饼干](../leetcode/455.分饼干.js)
+[455 分饼干](./leetcode/455.分发饼干.js)
 
-[122 买卖股票的最佳时机 II](../leetcode/122.买卖股票的最佳时机-ii.js)
+[122 买卖股票的最佳时机 II](./leetcode/122.买卖股票的最佳时机-ii.js)
 
 ### 回溯算法
 
@@ -307,6 +307,6 @@ leetcode 相关题：
 
 leetcode 相关题：
 
-[46 全排列](../leetcode/46.全排列.js)
+[46 全排列](./leetcode/46.全排列.js)
 
-[78 子集](../leetcode/78.子集.js)
+[78 子集](./leetcode/78.子集.js)
