@@ -68,6 +68,8 @@ JS 中相关知识点： [原型链、instanceof 的实现](./note/原型链.md)
 
 常见操作： [删除节点、插入节点、遍历链表](./code/linkedList/index.js)
 
+双向链表：[双向链表 JS 实现](./code/linkedList/doubleLinkedList.js)
+
 Leetcode 相关题：
 
 [2 两数相加](./leetcode/2.两数相加.js)
@@ -79,6 +81,8 @@ Leetcode 相关题：
 [206 反转链表](./leetcode/206.反转链表.js)
 
 [237 删除链表中的节点](./leetcode/237.删除链表中的节点.js)
+
+[146 LRU 缓存机制](./leetcode/146.lru-缓存机制.js)
 
 ### 集合(Set)
 
